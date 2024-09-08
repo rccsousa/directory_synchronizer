@@ -11,6 +11,7 @@ A Python application for synchronizing the contents of two directories. This too
 
 ## Installation
 
+### Option 1 - Clone repository
 1. **Clone the repository:**
 
     ```bash
@@ -23,6 +24,12 @@ A Python application for synchronizing the contents of two directories. This too
     ```bash
     pip install .
     ```
+
+### Option 2 - Pull repository using python pip
+
+```bash
+pip install git+https://github.com/rccsousa/directory_synchronizer
+```
 
 ## Usage
 
