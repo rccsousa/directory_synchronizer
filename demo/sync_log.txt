@@ -1,0 +1,21 @@
+2024-09-08 15:22:56,815 - Starting synchronization...
+2024-09-08 15:25:21,725 - Starting synchronization...
+2024-09-08 15:25:21,725 - Directory created: repl_dir\a-folder-with-subfolders
+2024-09-08 15:25:21,725 - Directory created: repl_dir\a-sub-folder
+2024-09-08 15:25:21,726 - Directory created: repl_dir\a-folder-with-subfolders\the-sub-subfolder
+2024-09-08 15:25:21,728 - File copied/updated: repl_dir\img-of-a-clone.jpg
+2024-09-08 15:25:21,728 - File copied/updated: repl_dir\text-file.txt
+2024-09-08 15:25:21,729 - File copied/updated: repl_dir\a-folder-with-subfolders\the-sub-subfolder\hello.txt
+2024-09-08 15:25:21,729 - File copied/updated: repl_dir\a-sub-folder\a-python-file.py
+2024-09-08 15:25:21,730 - Synchronization completed.
+2024-09-08 15:26:10,953 - Starting synchronization...
+2024-09-08 15:26:10,953 - Synchronization completed.
+2024-09-08 15:26:31,805 - Starting synchronization...
+2024-09-08 15:26:31,805 - Directory created: demo_repl_dir\a-folder-with-subfolders
+2024-09-08 15:26:31,806 - Directory created: demo_repl_dir\a-sub-folder
+2024-09-08 15:26:31,806 - Directory created: demo_repl_dir\a-folder-with-subfolders\the-sub-subfolder
+2024-09-08 15:26:31,808 - File copied/updated: demo_repl_dir\img-of-a-clone.jpg
+2024-09-08 15:26:31,809 - File copied/updated: demo_repl_dir\text-file.txt
+2024-09-08 15:26:31,809 - File copied/updated: demo_repl_dir\a-folder-with-subfolders\the-sub-subfolder\hello.txt
+2024-09-08 15:26:31,810 - File copied/updated: demo_repl_dir\a-sub-folder\a-python-file.py
+2024-09-08 15:26:31,810 - Synchronization completed.
